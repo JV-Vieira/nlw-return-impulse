@@ -27,5 +27,5 @@ dist-ssr
 node_modules
 
 #Class 
-comments_class_1.txt
-comments_class_2.txt
+.comments_class_1
+.comments_class_2
