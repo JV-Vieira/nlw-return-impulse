@@ -26,8 +26,5 @@ dist-ssr
 #Node Modules
 node_modules
 
-#Class 
-.comments_class_1
-.comments_class_2
-.comments_class_3
 
+.env
