@@ -26,8 +26,13 @@ dist-ssr
 #Node Modules
 node_modules
 
+#Env
+.env.local
+
 #Class 
 .comments_class_1
 .comments_class_2
 .comments_class_3
+
+
 
