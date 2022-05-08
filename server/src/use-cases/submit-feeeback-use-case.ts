@@ -44,6 +44,7 @@ export class SubmitFeedbackUseCase { //então iremos fazer assim:
       `<div style='font-family: sans-serif; font-size:16px; color: #111;'>`, //css
       `<p>Tipo do feedback: ${type}<p>`, //<p> São os paragrafos ${type} oq sera enviado
       `<p>Comentário: ${comment}<p>`,
+      screenshot ? `<img src="${screenshot}" />` : ``, //se tiver screenshot vai mostrar 
     ].join('\n')
     })
   }
