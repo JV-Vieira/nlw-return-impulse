@@ -17,7 +17,7 @@
 - ✔️ 01/mai/21 - Abertura
 - ✔️ 02/mai/21 - Stage 1 (1h48)
 - ✔️ 03/mai/21 - Stage 2 (1h57)
-- ❌ 04/mai/21 - Stage 3 ()
-- ❌ 05/mai/21 - Stage 4 ()
-- ❌ 06/mai/21 - Stage 5
-- ❌ 08/mai/21 - Encerramento
+- ✔️ 04/mai/21 - Stage 3 (2h00) - Back-end (Node.js)
+- ✔️ 05/mai/21 - Stage 4 (2h09) - Mobile (React Native)
+- ✔️ 06/mai/21 - Stage 5 (0h56) - Deploy (Vercel + Railway)
+- ✔️ 08/mai/21 - Encerramento

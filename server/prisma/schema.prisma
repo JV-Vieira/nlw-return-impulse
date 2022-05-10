@@ -6,13 +6,12 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
-//universal unique ID
 model Feedback {
-  id String @id @default(uuid()) //universal unique ID
+  id String @id @default(uuid())
 
   type       String
   comment    String

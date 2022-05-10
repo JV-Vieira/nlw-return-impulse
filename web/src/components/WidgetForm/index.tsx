@@ -68,7 +68,7 @@ export function WidgetForm() {
       )}
 
       <footer className="text-xs ">
-        Feito com ♥ pela Rocketseat and{" "}
+        Feito com ♥ por{" "}
         <a
           className="underline underline-offset-1"
           href="https://www.linkedin.com/in/joao-victor-vieira-b97556227/"

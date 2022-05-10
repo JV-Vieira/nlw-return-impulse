@@ -7,8 +7,7 @@ export function Copyright() {
     return (
         <View>
             <Text style={styles.text}>
-                Feito com ♥ por Vitor Honna
-                {/* https://github.com/vitorhonna/nlw-return-impulse */}
+                Feito com ♥ por Joao Victor Vieira
             </Text>
         </View>
     );

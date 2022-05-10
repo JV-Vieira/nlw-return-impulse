@@ -23,16 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-#Node Modules
-node_modules
-
-#Env
+# Env
 .env.local
-
-#Class 
-.comments_class_1
-.comments_class_2
-.comments_class_3
-
-
-
